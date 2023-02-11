@@ -1,3 +1,10 @@
+> To flash a system76 Oryx (10) pro with the custom fan curves on a `2022-09-26_aa797d2` version bios.
+> 
+> ```sh
+> make BOARD=system76/oryp10 flash_internal
+> ```
+
+
 # System76 EC
 
 System76 EC is a GPLv3 licensed embedded controller firmware for System76
